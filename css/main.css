@@ -34,7 +34,7 @@ body{
       rgba(11,11,16,0.85),
       rgba(11,11,16,0.85)
     ),
-    url("images/wallpaper.webp");
+    url("../images/wallpaper.webp");
 
   background-repeat:no-repeat;
   background-size:cover;
@@ -43,6 +43,7 @@ body{
 
   color:#eee;
 }
+
 
 main{
   position:relative;
@@ -325,6 +326,7 @@ small#exportDate {
   opacity:.7;
   pointer-events:none;
 }
+
 
 
 
